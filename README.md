@@ -3,5 +3,5 @@
  [Paper(soon...)] &emsp; [Project Page(soon...)]  &emsp;  [Poster Video](https://www.youtube.com/watch?v=ChLoUiWL6aY)]
 
 <p align="center">
-  <img src="assets/compare-same-id.png">
+  <img src="assets/compara.pdf">
 </p>
